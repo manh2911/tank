@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e41d13d-0d49-44bb-b5e4-3ad500e504ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/.idea/lesson14-cart-redux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../redux-saga/.idea/redux-saga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/resources/views/imageupload.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/components/ProductItem/ProductItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/components/ProductItem/ProductItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/constants/ActionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/constants/ActionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/pages/ProductActionPage/ProductActionPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/pages/ProductActionPage/ProductActionPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/pages/ProductListPage/ProductListPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/pages/ProductListPage/ProductListPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/reducers/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/reducers/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../call-api/src/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../call-api/src/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone_data/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../code_viblo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../code_viblo/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/constants/ActionType.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/constants/ActionType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/constants/Message.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/constants/Message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/containers/CartContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/containers/CartContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/containers/MessageContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/containers/MessageContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/containers/ProductsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/containers/ProductsContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson14-cart-redux/src/reducers/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mycake/templates/Pages/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-myapp/src/containers/food-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-myapp/src/reducers/foods-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-myapp/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-myapp/src/reducers/users-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-router-bacsic-app/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testReactjs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todo-list/src/components/TrafficLight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todo-list/src/components/TrafficLight.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1juNsi35IIvwLk4O9Ce82jYQ6Np" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e41d13d-0d49-44bb-b5e4-3ad500e504ed" name="Default Changelist" comment="" />
+      <created>1604650225048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604650225048</updated>
+      <workItem from="1604650226122" duration="5537000" />
+      <workItem from="1604892268194" duration="599000" />
+      <workItem from="1604902055639" duration="64000" />
+      <workItem from="1604980135888" duration="14009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604651952699">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="297" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604651952699" />
+  </component>
+</project>

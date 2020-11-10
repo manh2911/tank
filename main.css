@@ -1,0 +1,16 @@
+body {
+    /*background: #161616;*/
+}
+
+.wrap {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+#canvas{
+    border: 1px solid green;
+}
